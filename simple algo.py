@@ -89,6 +89,6 @@ if introQ == '3':
 if introQ == '4':
    CALCU()
 if introQ == '/github':
-   print(' ')
+   print('https://github.com/SAKETplayZzz/Simple-Algorithms')
 
 Dragger = input()
